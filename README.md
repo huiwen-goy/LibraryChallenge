@@ -23,7 +23,8 @@ The dataset was a .csv file containing the titles, authors, and dates borrowed o
 <br>  
 <br>  
 
-[Example Python code](https://huiwen-goy.github.io/LibraryChallenge/retrieve_book_data_from_OL.html) and [sample file](https://huiwen-goy.github.io/docs/LibraryChallenge/sample.csv)  
+### [Example Python code](https://huiwen-goy.github.io/LibraryChallenge/retrieve_book_data_from_OL.html)  
+The Jupyter Notebook can be downloaded from the /docs folder, along with the sample .csv file.  
 
 <br>  
 <br>  

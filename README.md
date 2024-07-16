@@ -20,16 +20,11 @@ The dataset was a .csv file containing the titles, authors, and dates borrowed o
 
 3. Install the OpenLibrary Python package, a library of tools created and maintained by Open Library for accessing their data.  
 [https://github.com/internetarchive/openlibrary-client?tab=readme-ov-file#installation](https://github.com/internetarchive/openlibrary-client?tab=readme-ov-file#installation)  
-<br>  
-<br>  
-
+  
 ### Example Python code  
 [Preview in HTML](https://huiwen-goy.github.io/LibraryChallenge/retrieve_book_data_from_OL.html)  
 The Jupyter Notebook can be downloaded from the LibraryChallenge/docs folder, along with a sample .csv file.  
-
-<br>  
-<br>  
-
+  
 ### Results and conclusions  
 
 [Poster]() of library book analysis  

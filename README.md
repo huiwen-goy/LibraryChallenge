@@ -22,7 +22,7 @@ The dataset was a .csv file containing the titles, authors, and dates borrowed o
 [https://github.com/internetarchive/openlibrary-client?tab=readme-ov-file#installation](https://github.com/internetarchive/openlibrary-client?tab=readme-ov-file#installation)  
 <br>  
 <br>  
-**[Example Python code]() and [sample file]() for retrieving book information**  
+###[Example Python code]() and [sample file]()  
 <br>  
 <br>  
 

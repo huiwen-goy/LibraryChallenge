@@ -22,10 +22,10 @@ The dataset was a .csv file containing the titles, authors, and dates borrowed o
 [https://github.com/internetarchive/openlibrary-client?tab=readme-ov-file#installation](https://github.com/internetarchive/openlibrary-client?tab=readme-ov-file#installation)  
   
 ### Example Python code  
-[Preview in HTML](https://huiwen-goy.github.io/LibraryChallenge/retrieve_book_data_from_OL.html)  
+[Preview code in HTML](https://huiwen-goy.github.io/LibraryChallenge/retrieve_book_data_from_OL.html)  
 The Jupyter Notebook can be downloaded from the LibraryChallenge/docs folder, along with a sample .csv file.  
   
 ### Results and conclusions  
 
-[Poster]() of library book analysis  
+[Poster](https://huiwen-goy.github.io/LibraryChallenge/library_challenge_poster_July2024.pdf) of library book analysis  
 

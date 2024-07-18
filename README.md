@@ -29,4 +29,6 @@ The Jupyter Notebook can be downloaded from the LibraryChallenge/docs folder, al
 ### Results and conclusions  
 
 [Poster](https://huiwen-goy.github.io/LibraryChallenge/library_challenge_poster_July2024.pdf) of library book analysis  
+<br>
+([Figure A](https://huiwen-goy.github.io/LibraryChallenge/library_challenge_fig_A_proportion.pdf) with y-axis scaled to proportion)  
 
